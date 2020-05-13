@@ -44,6 +44,6 @@ pg_close($conn);
  <!--redirection vers page de login -->
  <script>
 
-window.open("index.html","_self");
+window.open("index.php","_self");
 
 </script>

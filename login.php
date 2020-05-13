@@ -1,9 +1,9 @@
 <?php
-$servername = "localhost";
+$servername = "ec2-52-201-55-4.compute-1.amazonaws.com";
 $serverport = 5432;
-$serverusername = "postgres";
-$password = "admin";
-$dbname = "HerokuLogin";
+$serverusername = "hjdydbqfddtsxg";
+$password = "aeb31b161763d44c95f3e05a3cb8e3e15e4505ff4f707a2dd9cf39df415cff37";
+$dbname = "d1gkedto5umd53";
 
 $username = $_POST['username'];
 $account_password = $_POST['password'];

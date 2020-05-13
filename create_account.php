@@ -37,7 +37,7 @@ pg_close($conn);
        <!--redirection vers page de création de compte -->
         <script>
 
-            window.open("index_account.php","_self");
+            window.open("index.php","_self");
 
         </script>
         
